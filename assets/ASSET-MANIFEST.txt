@@ -1,0 +1,8 @@
+ASSET MANIFEST
+
+hero.gif             Animated version of your pixel-art workspace image.
+anime-left.gif       Animated/faded version of the supplied anime image.
+cat-left.gif         Background-removed, gently animated version of the supplied Christmas cat.
+cats-stars-left.gif  Small pixel cats and stars moving from right to left.
+side-characters.gif  Combined anime + cat animation for the left profile column.
+footer.png           Color-graded winter landscape with softened edges.
