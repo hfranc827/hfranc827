@@ -25,9 +25,7 @@
 
 Hi, I'm **hfranc827**. Welcome to my little corner of GitHub.
 
-This is where I keep my projects, experiments, ideas, and progress. I enjoy learning by building, exploring new concepts, and improving one step at a time.
 
-> *“Every line of code is part of the journey.”*
 
 ---
 
@@ -43,15 +41,6 @@ This is where I keep my projects, experiments, ideas, and progress. I enjoy lear
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hfranc827&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity for hfranc827" />
-
-</div>
-
----
 
 ## 🏆 Achievements
 
