@@ -46,7 +46,9 @@ Hi, I'm **hfranc827**. Welcome to my little corner of GitHub.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hfranc827&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub overview for hfranc827" />
 
+
 <img height="165" src="https://streak-stats.demolab.com?user=hfranc827&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak for hfranc827" />
+
 
 </div>
 
