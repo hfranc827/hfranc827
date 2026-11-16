@@ -1,78 +1,79 @@
-<div align="center">
-<img src="./hero.gif" alt="hfranc827 - animated pixel-art developer workspace" width="100%" />
-<p>
-  <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About me" /></a>
-  <a href="#github-analytics"><img src="https://img.shields.io/badge/GITHUB_STATS-0D1117?style=for-the-badge&logo=github&logoColor=BC8CFF" alt="GitHub stats" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D0D8" alt="Tech stack" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Projects" /></a>
-</p>
-`Developer` · `Student` · `Tech Enthusiast`
-</div>
+&#x20;\<div align="center">
+
+\<img src="./hero.gif" alt="hfranc827 - pixel art workspace" width="100%" />
+
+\<br />
+
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+corner+of+GitHub;Small+steps%2C+big+ideas;Always+learning%2C+always+creating](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=520\&lines=Welcome+to+my+corner+of+GitHub;Small+steps%2C+big+ideas;Always+learning%2C+always+creating)" alt="Animated introduction" />
+
+\<br />
+
+\<img src="[https://komarev.com/ghpvc/?username=hfranc827&style=flat-square&color=1f6feb&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=hfranc827\&style=flat-square\&color=1f6feb\&label=PROFILE+VIEWS)" alt="Profile views" />
+
+\<p>   \<a href="#about-me">\<img src="[https://img.shields.io/badge/ABOUT_ME-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF](https://img.shields.io/badge/ABOUT_ME-0D1117?style=for-the-badge\&logo=github\&logoColor=58A6FF)" />\</a>   \<a href="#github-activity">\<img src="[https://img.shields.io/badge/ACTIVITY-0D1117?style=for-the-badge&logo=githubactions&logoColor=BC8CFF](https://img.shields.io/badge/ACTIVITY-0D1117?style=for-the-badge\&logo=githubactions\&logoColor=BC8CFF)" />\</a>   \<a href="#achievements">\<img src="[https://img.shields.io/badge/ACHIEVEMENTS-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=39D0D8](https://img.shields.io/badge/ACHIEVEMENTS-0D1117?style=for-the-badge\&logo=githubsponsors\&logoColor=39D0D8)" />\</a>   \<a href="#repositories">\<img src="[https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF](https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge\&logo=git\&logoColor=58A6FF)" />\</a> \</p>
+
+\</div>
+
 ---
-👨‍💻 About Me
-Hi! I'm hfranc827, a [student / developer] interested in building useful software and exploring new technologies.
-🎓 Currently studying: [Your degree, course, or field]
-💻 Main interests: [Web development, software engineering, data, etc.]
-🌱 Currently learning: [Technology or skill]
-🔭 Working on: [Project or personal goal]
-🎯 Goal: Keep learning and build projects that solve real problems.
-```javascript
-const developer = {
-  username: "hfranc827",
-  role: "Student / Developer",
-  interests: ["Software Development", "Web", "Technology"],
-  currentlyLearning: ["[Technology]"],
-  goal: "Build useful things and keep improving"
-};
-```
+
+## 🌙 About Me
+
+Hi, I'm **hfranc827**. Welcome to my little corner of GitHub.
+
+This is where I keep my projects, experiments, ideas, and progress. I enjoy learning by building, exploring new concepts, and improving one step at a time.
+
+> *“Every line of code is part of the journey.”*
+
 ---
-📊 GitHub Analytics
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hfranc827&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics for hfranc827" />
-<img height="165" src="https://streak-stats.demolab.com?user=hfranc827&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak for hfranc827" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfranc827&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-</div>
-📈 Contribution Activity
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hfranc827&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
+
+## 📊 GitHub Overview
+
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=hfranc827&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=hfranc827\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=58A6FF\&icon_color=BC8CFF\&text_color=C9D1D9\&rank_icon=github)" />
+
+\<img height="165" src="[https://streak-stats.demolab.com?user=hfranc827&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E](https://streak-stats.demolab.com?user=hfranc827\&hide_border=true\&background=0D1117\&ring=58A6FF\&fire=BC8CFF\&currStreakLabel=58A6FF\&sideLabels=C9D1D9\&currStreakNum=E6EDF3\&sideNums=E6EDF3\&dates=8B949E)" />
+
+\</div>
+
 ---
-⚡ Tech Stack
-<!-- Keep only the technologies you actually use or are actively learning. -->
-Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php&theme=dark" alt="Programming languages" />
-</p>
-Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
-</p>
-Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
-</p>
-Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases" />
-</p>
-DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins&theme=dark" alt="DevOps and cloud technologies" />
-</p>
-Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Development tools" />
-</p>
+
+## 📈 GitHub Activity
+
+\<div align="center">
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=hfranc827&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true&custom_title=Contribution%20Activity](https://github-readme-activity-graph.vercel.app/graph?username=hfranc827\&bg_color=0D1117\&color=C9D1D9\&line=58A6FF\&point=BC8CFF\&area=true\&hide_border=true\&custom_title=Contribution%20Activity)" />
+
+\</div>
+
 ---
-🚀 Featured Projects
-<!-- Replace the examples with your real repositories. Delete any row you do not need. -->
-Project	Description	Technologies
-Project One	[What the project does]	[Tech stack]
-Project Two	[What the project does]	[Tech stack]
-Project Three	[What the project does]	[Tech stack]
-<div align="center">
-![Explore repositories](https://img.shields.io/badge/Explore_repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
-<br />
-Thanks for visiting my profile!  
-Always learning. Always building.
-</div>
+
+## 🏆 Achievements
+
+\<div align="center">
+
+\<img width="100%" src="[https://github-profile-trophy.vercel.app/?username=hfranc827&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6](https://github-profile-trophy.vercel.app/?username=hfranc827\&theme=onestar\&no-frame=true\&no-bg=true\&margin-w=8\&column=6)" />
+
+\</div>
+
+---
+
+## 📂 Repositories
+
+\<div align="center">
+
+A collection of projects, practice, and experiments.
+
+
+
+\</div>
+
+---
+
+\<div align="center">
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123B5D,100:312E81&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,45:123B5D,100:312E81\&height=110\&section=footer)" width="100%" />
+
+\<sub>Thanks for stopping by · \<b>hfranc827\</b>\</sub>
+
+\</div>
